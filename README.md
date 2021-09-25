@@ -1,6 +1,6 @@
 Earth Science Informatics
 
-Under review
+Accepted, 23 September 2021
 
 # GEOstats: An Excel-based Data Analysis Program Applying Basic Principles of Statistics for Geological Studies
 
