@@ -1,10 +1,10 @@
 Earth Science Informatics
 
-02 October 2021
+Volume 15, March 2022, Pages 705-712
 
 # GEOstats: an excel-based data analysis program applying basic principles of statistics for geological studies
 
-Mesut GÜNDÜZ(1;2) and Kürşad ASAN(3)
+Mesut GÜNDÜZ(1,2) and Kürşad ASAN(3)
 
 (1)Graduate School of Natural Sciences, Muğla Sıtkı Koçman University, TR-48000, Muğla, Turkey
 
